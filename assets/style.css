@@ -3,10 +3,12 @@ body {
    font-family: 'Ubuntu', sans-serif; 
 }
 
+/*Removes bullets from list style*/
 ul{
     list-style: none;
 }
 
+/*Changes list alignment from vertical to horizontal*/
 li{
     display: inline
 }
@@ -15,6 +17,7 @@ img {
     width: 300px;
 }
 
+/*Nav flows in line with h1 and is responsive*/
 .nav {
     display:flex;
     flex-direction:row;
@@ -24,6 +27,7 @@ img {
     align-items: flex-end;
 }
 
+/*Links for future applications are evenly formated*/
 .flexbox {
     display: flex;
     flex-wrap: wrap;
@@ -33,10 +37,12 @@ img {
     justify-content: space-around;
 }
 
+/*first Application will appear larger than the others due to flex basis*/
 .app1 {
-    flex: 0 1 500px;
+    flex: 0 1 100rem;
     background-color: #997342;
     border: 5px solid black;
+    width: 100%;
 
 }
 
