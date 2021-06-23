@@ -1,0 +1,21 @@
+* {
+   background-color: #C9C4AB;
+   font-family: 'Ubuntu', sans-serif; 
+}
+
+nav {
+    display:block;
+    background-color: #547870;
+    height: 100px;
+    width: 100%;
+}
+
+ul{
+    list-style: none;
+    float: right;
+    background-color: #547870;
+}
+
+li{
+    display: inline
+}
