@@ -7,9 +7,9 @@ Flexboxes allowed for easier distribution and layout of grouped items. Made resp
 
 ## Installation
 
-* [Horiseon Marketing Webpage](https://kestleolson.github.io/code-refactor1/index.html)
+* [Kestle Olson's Portfolio](hhttps://kestleolson.github.io/Portfolio_UWCBC/)
 
-* [Github Repo](https://github.com/KestleOlson/code-refactor1)
+* [Github Repo](https://github.com/KestleOlson/Portfolio_UWCBC)
 
 ## Usage
 
